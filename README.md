@@ -4,7 +4,7 @@
 ## Data Augmentation
 * Audio Data Augmentation 기법 중 shifting 방법을 사용
 ## Data Pre-processing
-* gender columns에 one-hot-encoding 적용
+* gender column에 one-hot-encoding 적용
 * 최종적으로 만들어진 feature value에 절대값 적용
 ## Pseudo Labeling
 * unlabeled dataset을 이용해 pseudo-labeling을 적용
