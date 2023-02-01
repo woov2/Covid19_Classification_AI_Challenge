@@ -1,4 +1,4 @@
-# dacon [월간 데이콘 음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description)에서 진행된 코드입니다.
+# Dacon [월간 데이콘 음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description)에서 진행된 코드입니다.
 ## MFCC Vector 추출
 * 데이터의 다양성을 위해 추출할 MFCC 벡터의 개수를 16,32,64개로 설정
 ## Data Augmentation
